@@ -110,9 +110,7 @@ work:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Research Assistant 
-    company_name: | 
-    Institute of Geodesy and Geophysics 
-    Chinese Academy of Sciences
+    company_name: Institute of Geodesy and Geophysics Chinese Academy of Sciences
     company_url: ''
     company_logo: ''
     date_start: 2017-09-01
