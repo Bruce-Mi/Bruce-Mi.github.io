@@ -134,10 +134,10 @@ skills:
         description: Bernese, RTKLIB and self-developed GNSS software
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      # - name: SQL
+      #   description: ''
+      #   percent: 40
+      #   icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -197,5 +197,5 @@ languages:
 
 ## About Me
 
-Xiaolong Mi is currently a Research Assistant Professor at the Department of Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University. His research interests include GNSS and Low Earth Orbit (LEO) technologies for positioning, navigation, and timing (PNT) along with the application of Artificial Intelligence (AI) in earth and space sciences.
+Xiaolong Mi is a Research Assistant Professor specializing in Global Navigation Satellite Systems (GNSS) and Low-Earth Orbit (LEO) technologies. His research focuses on satellite navigation (PPP, RTK and PPP-RTK), precise orbit determination of LEO satellites, GNSS time and frequency transfer, GNSS remote sensing, and the application of Artificial Intelligence (AI) in earth and space sciences. He has published over 30 peer-reviewed papers in top-tier journals, secured significant research funding, and received multiple awards for academic excellence.
 
