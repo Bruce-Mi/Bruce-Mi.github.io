@@ -76,7 +76,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Surveying Engineering 
-    institution: College of Geodesy and Geomatics handong University of Science and Technology
+    institution: College of Geodesy and Geomatics Shandong University of Science and Technology
     date_start: 2013-09-01
     date_end: 2017-06-30
     # summary: |
@@ -88,7 +88,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Assistant Professor
-    company_name: The Hong Kong Polytechnic University
+    company_name: Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
     company_url: ''
     company_logo: ''
     date_start: 2023-07-01
