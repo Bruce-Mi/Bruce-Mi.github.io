@@ -27,6 +27,7 @@ organizations:
   - name: The Hong Kong Polytechnic University
     url: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-xiaolong-mi/
 
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -58,7 +59,7 @@ education:
   - area: PhD in Spatial Sciences
     institution: Curtin University
     date_start: 2020-10-01
-    date_end: 2023-06-30
+    date_end: 2023-06-29
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
