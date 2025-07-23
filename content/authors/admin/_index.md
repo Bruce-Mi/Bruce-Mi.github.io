@@ -55,8 +55,8 @@ interests:
   - AI for Earth and Space Sciences
 
 education:
-  - area: PhD Spatial Sciences
-    institution: Earth and Planetary Sciences \nCurtin University
+  - area: PhD in Spatial Sciences
+    institution: Earth and Planetary Sciences       Curtin University
     date_start: 2020-10-01
     date_end: 2023-06-30
     # summary: |
@@ -64,8 +64,8 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: PhD GNSS and Space Geodesy
-    institution: Institute of Geodesy and Geophysics \nChinese Academy of Sciences
+  - area: PhD in Space Geodesy
+    institution: Institute of Geodesy and Geophysics Chinese Academy of Sciences
     date_start: 2017-09-01
     date_end: 2022-10-31
     # summary: |
@@ -75,8 +75,8 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Surveying Engineering 
-    institution: College of Geodesy and Geomatics \nShandong University of Science and Technology
+  - area: BSc in Surveying Engineering 
+    institution: College of Geodesy and Geomatics handong University of Science and Technology
     date_start: 2013-09-01
     date_end: 2017-06-30
     # summary: |
