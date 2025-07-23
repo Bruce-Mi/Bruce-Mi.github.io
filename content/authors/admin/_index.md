@@ -99,7 +99,7 @@ work:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position:	Research Assistant and Casual Academic
-    company_name: Curtin University 
+    company_name: School of Earth and Planetary Sciences, Curtin University 
     company_url: ''
     company_logo: ''
     date_start: 2020-10-01
