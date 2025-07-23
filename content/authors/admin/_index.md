@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: PhD in Spatial Sciences
-    institution: Earth and Planetary Sciences       Curtin University
+    institution: Curtin University
     date_start: 2020-10-01
     date_end: 2023-06-30
     # summary: |
@@ -76,7 +76,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Surveying Engineering 
-    institution: College of Geodesy and Geomatics Shandong University of Science and Technology
+    institution: Shandong University of Science and Technology
     date_start: 2013-09-01
     date_end: 2017-06-30
     # summary: |
@@ -110,7 +110,7 @@ work:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Research Assistant 
-    company_name: Institute of Geodesy and Geophysics Chinese Academy of Sciences
+    company_name: Institute of Geodesy and Geophysics, Chinese Academy of Sciences
     company_url: ''
     company_logo: ''
     date_start: 2017-09-01
