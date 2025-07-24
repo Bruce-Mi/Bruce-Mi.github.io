@@ -162,7 +162,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: running
+        icon: sports
       - name: Travel
         description: ''
         percent: 80
