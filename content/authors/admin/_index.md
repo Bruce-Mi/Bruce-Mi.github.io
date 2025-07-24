@@ -146,7 +146,7 @@ skills:
       - name: GNSS Tools
         description: Bernese, RTKLIB and self-developed GNSS software
         percent: 100
-        icon: satellite
+        icon: circle-stack
       # - name: SQL
       #   description: ''
       #   percent: 40
