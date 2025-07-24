@@ -175,7 +175,7 @@ languages:
     percent: 100
   - name: Cantonese
     percent: 20
-  - name: Cantonese
+  - name: Japanese
     percent: 20
 # Awards.
 #   Add/remove as many awards below as you like.
