@@ -9,9 +9,9 @@ name_pronunciation: ''
 first_name: Xiaolong 
 last_name: Mi
 
-<!-- # Status emoji
+# Status emoji
 status:
-  icon: ☕️ -->
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -146,7 +146,7 @@ skills:
       - name: GNSS Tools
         description: Bernese, RTKLIB and self-developed GNSS software
         percent: 100
-        icon: circle-stack
+        icon: chart-bar
       # - name: SQL
       #   description: ''
       #   percent: 40
@@ -162,7 +162,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: running
+        icon: cat
       - name: Travel
         description: ''
         percent: 80
