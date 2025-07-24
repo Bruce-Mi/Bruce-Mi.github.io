@@ -162,7 +162,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: 🏸
+        icon: ball
       - name: Travel
         description: ''
         percent: 80
@@ -170,12 +170,13 @@ skills:
 
 languages:
   - name: English
-    percent: ''
+    percent: 100
   - name: Chinese
-    percent: ''
+    percent: 100
   - name: Cantonese
-    percent: ''
-
+    percent: 20
+  - name: Cantonese
+    percent: 20
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
