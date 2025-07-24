@@ -146,7 +146,7 @@ skills:
       - name: GNSS Tools
         description: Bernese, RTKLIB and self-developed GNSS software
         percent: 100
-        icon: chart-bar
+        icon: satellite
       # - name: SQL
       #   description: ''
       #   percent: 40
@@ -162,7 +162,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: badminton
+        icon: sport
       - name: Travel
         description: ''
         percent: 80
@@ -170,11 +170,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: ''
   - name: Chinese
-    percent: 100
-  # - name: Portuguese
-  #   percent: 25
+    percent: ''
+  - name: Cantonese
+    percent: ''
 
 # Awards.
 #   Add/remove as many awards below as you like.
