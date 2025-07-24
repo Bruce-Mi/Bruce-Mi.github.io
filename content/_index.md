@@ -35,11 +35,17 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research centers on advancing both the theoretical and practical aspects of GNSS and LEO-based systems. I am particularly interested in:
+        1. Satellite Navigation: Developing robust solutions for PPP, RTK, and PPP-RTK to achieve more accurate positioning.
+        2. LEO Satellite Orbit Determination: Enhancing techniques for high-precision orbit computation, which is crucial for scientific and commercial missions.
+        3. Time and Frequency Transfer: Improving GNSS-based time and frequency transfer methods, focusing on undifferenced and uncombined strategies with integer ambiguity resolution.
+        4. GNSS Remote Sensing: Applying GNSS signals for atmospheric remote sensing, especially ionospheric and tropospheric delay determination.
+        5. AI Applications in Geoscience: Leveraging foundational AI models to forecast tropospheric delay, supporting resilience in navigation and advancements in microwave remote sensing.
+        
+        Through collaboration and continuous learning, I strive to contribute to the evolution of GNSS technology and its applications, aiming to make a lasting impact across both earth and space sciences.
         
         Please reach out to collaborate 😃
+        
     design:
       columns: '1'
   - block: collection
