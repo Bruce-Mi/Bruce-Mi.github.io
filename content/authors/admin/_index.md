@@ -9,9 +9,9 @@ name_pronunciation: ''
 first_name: Xiaolong 
 last_name: Mi
 
-# Status emoji
+<!-- # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️ -->
 
 # Is this the primary user of the site?
 superuser: true
@@ -146,7 +146,7 @@ skills:
       - name: GNSS Tools
         description: Bernese, RTKLIB and self-developed GNSS software
         percent: 100
-        icon: chart-bar
+        icon: satellite
       # - name: SQL
       #   description: ''
       #   percent: 40
@@ -157,13 +157,13 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Badminton
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: badminton
+      - name: Travel
         description: ''
         percent: 80
         icon: camera
@@ -181,7 +181,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Young Scientist in Astronomy (Top 10%)
+  - title: Young Scientist in Astronomy
     url: ''
     date: '2025-07-20'
     awarder: Hong Kong Laureate Forum 
@@ -191,22 +191,22 @@ awards:
     date: '2024-10-20'
     awarder: Institute of Scientific and Technical Information of China 
 
-  - title: Excellence Prize of the President Award (Top 0.1%)
+  - title: Excellence Prize of the President Award
     url: ''
     date: '2022-10-20'
     awarder: Chinese Academy of Sciences
 
-  - title: Zhu Li Yuehua Excellent Ph.D. Student Award (Top 0.1%)
+  - title: Zhu Li Yuehua Excellent Ph.D. Student Award
     url: ''
     date: '2021-10-20'
     awarder: Chinese Academy of Sciences
 
-  - title: National Scholarship for Ph.D. Students (Top 0.2%)
+  - title: National Scholarship for Ph.D. Students
     url: ''
     date: '2021-05-20'
     awarder: Ministry of Education of the People's Republic of China  
     
-  - title: Excellent Paper Award (Top 1%)
+  - title: Excellent Paper Award
     url: ''
     date: '2020-05-20'
     awarder: China Satellite Navigation and Positioning Association  
